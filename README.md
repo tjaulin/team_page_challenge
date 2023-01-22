@@ -28,7 +28,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 ## Overview
@@ -41,7 +40,7 @@
 - Css
 - Flexbox and Css grid
 - Vs Code
-- Google font
+- Google fonts
 
 ## Features
 
